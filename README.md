@@ -1,2 +1,16 @@
-# olist-ecommerce-analysis
-SQL и Python анализ данных e-commerce (Olist)
+# Анализ данных маркетплейса Olist (SQL + Python)
+
+Анализ около 100 тысяч заказов бразильского маркетплейса за 2016–2018 годы: продажи, доставка, отзывы и поведение клиентов.
+**Главный вопрос проекта:** как задержки доставки влияют на оценки клиентов и повторные покупки.
+
+# Данные
+
+[Brazilian E-Commerce Public Dataset by Olist] (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle). Данные в репозиторий не включены: скачай их с Kaggle и положи в папку data/raw/.
+
+## Стек
+
+Python, pandas, SQLite, SQL, matplotlib, seaborn.
+
+## Статус
+
+Проект в работе. Результаты и выводы будут добавлены по мере выполнения.
