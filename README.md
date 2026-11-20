@@ -5,7 +5,7 @@
 
 # Данные
 
-[Brazilian E-Commerce Public Dataset by Olist] (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle). Данные в репозиторий не включены: скачай их с Kaggle и положи в папку data/raw/.
+[Brazilian E-Commerce Public Dataset by Olist] (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle). Данные в репозиторий не включены
 
 ## Стек
 
